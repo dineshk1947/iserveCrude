@@ -1,0 +1,6 @@
+.table{
+    width: 200%;
+    td.table th {
+        padding-right: 88px;
+    }   
+}
